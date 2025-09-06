@@ -1,3 +1,6 @@
+# Weather-Dashboard
+Weather Dashboard application providing real-time weather data and forecasts using OpenWeather API.
+
 # 🌦️ Weather Dashboard
 
 A responsive Weather Dashboard application built with **React, Vite, and Tailwind CSS**.  
@@ -24,4 +27,4 @@ It fetches real-time weather data using the **OpenWeather API** and displays cur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Weather-Dashboard.git
+   git clone https://github.com/your-sandeep8128/Weather-Dashboard.git
