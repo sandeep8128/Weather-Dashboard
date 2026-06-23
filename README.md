@@ -6,8 +6,7 @@ Weather Dashboard application providing real-time weather data and forecasts usi
 A responsive Weather Dashboard application built with **React, Vite, and Tailwind CSS**.  
 It fetches real-time weather data using the **OpenWeather API** and displays current conditions along with forecasts.
 
----
-
+----
 ## 🚀 Features
 - 🌍 Search weather by city name
 - ⏱️ Real-time temperature, humidity, and wind speed
